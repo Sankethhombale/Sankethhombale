@@ -4,7 +4,7 @@
 
 Hey there! I'm **H.L. Sanketh**, a **Computer Science Engineering** student at BNM Institute of Technology, with a passion for crafting innovative solutions through code. I'm currently pursuing my Bachelor's degree with a CGPA of 8.7, and I'm all about diving deep into technology, from IoT and blockchain to cybersecurity and machine learning. When I'm not coding, I'm exploring new technologies and dreaming up ways to make the world a better place through tech. Let's build something amazing together! ✨
 
-- 🎯 **Current Vibe**: Exploring IoT, Blockchain, and Cybersecurity
+- 🎯 **Current Vibe**: Exploring IoT, Machine Learning, RPA, Deep Learning
 - 💼 **Hustle**: Developed multiple projects including an IoT-based air quality monitor, a blockchain voting system, and a social media comment analysis tool
 - 🌱 **Leveling Up**: Gaining expertise in cybersecurity, RPA, and network security
 - 📩 **Hit Me Up**: [sankethombale@gmail.com](mailto:sankethombale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/h-l-sanketh-005393306) | [GitHub](https://github.com/Sankethhombale)
@@ -26,39 +26,40 @@ Here’s the stack I wield to conquer coding challenges:
 - **Languages**: C, Java, Python
 - **Databases**: SQL, MySQL
 - **Frameworks/Libraries**: React, Flutter
-- **Additional Technologies**: Arduino, Ethereum Blockchain, PHP, Facebook Graph API, NLP, Deep Learning (CNN/RNN)
+- **Additional Technologies**: Arduino, Ethereum Blockchain, PHP, Graph API, NLP, Deep Learning (CNN/RNN)
 
 ## 🔥 My Epic Projects
 
 Check out my portfolio of game-changing creations:
 
-### Air Quality Analysis using IoT
+### [Vulnerable and Toxic Comment Detection ](https://github.com/Sankethhombale/ToxicCommentDetector)
 
-Developed an IoT-based air quality monitoring system using Arduino and multiple sensors. Implemented real-time data collection and analysis of air pollutants and environmental parameters. Designed and programmed Arduino to interface with sensors and transmit data via Wi-Fi module. Integrated sensor data with cloud platforms for remote monitoring and data visualization.
+Developed a social media comment analysis tool using the Facebook Graph API to retrieve comments and assess toxicity levels. Implemented NLP and deep learning models (CNN/RNN) for sentiment and toxicity detection in user comments. Integrated Facebook authentication and API permissions, enabling secure data retrieval and processing.
 
-- 🛠️ **Tech**: Arduino, Python, Cloud Platforms
-- ✨ **Features**: Real-time monitoring, cloud integration, data visualization
+- 🛠️ **Tech**: Python, Facebook Graph API, NLP, Deep Learning (CNN/RNN)
+- ✨ **Features**: Toxicity detection, secure API integration, sentiment analysis
 
-### Blockchain-based Voting Portal
+
+### [Blockchain-based Voting Portal](https://github.com/Sankethhombale/BlockChainBasedSmartVotingSystem)
 
 Developed a secure online voting system integrating OTP-based authentication and facial recognition for voter verification. Implemented user-friendly interfaces and a robust backend in Python connected with Ethereum Blockchain. Utilized blockchain technology to ensure the immutability and transparency of stored votes.
 
 - 🛠️ **Tech**: Python, Ethereum Blockchain, Facial Recognition
 - ✨ **Features**: Secure authentication, transparent voting, user-friendly UI
 
-### Left-over Food Management
+### [Left-over Food Management](https://github.com/Sankethhombale/Left-Over-Food-Management)
 
 Developed "FeedingIndia," a web platform enabling food, clothing, and monetary donations, fostering community participation in addressing food waste and hunger. Implemented secure authentication, profile management, and dynamic content features using PHP and MySQL, ensuring user data integrity and engagement.
 
 - 🛠️ **Tech**: PHP, MySQL, HTML, CSS
 - ✨ **Features**: Donation platform, secure authentication, dynamic content
 
-### Vulnerable and Toxic Comment Analysis
+### [Air Quality Analysis using IoT](https://github.com/Sankethhombale)
 
-Developed a social media comment analysis tool using the Facebook Graph API to retrieve comments and assess toxicity levels. Implemented NLP and deep learning models (CNN/RNN) for sentiment and toxicity detection in user comments. Integrated Facebook authentication and API permissions, enabling secure data retrieval and processing.
+Developed an IoT-based air quality monitoring system using Arduino and multiple sensors. Implemented real-time data collection and analysis of air pollutants and environmental parameters. Designed and programmed Arduino to interface with sensors and transmit data via Wi-Fi module. Integrated sensor data with cloud platforms for remote monitoring and data visualization.
 
-- 🛠️ **Tech**: Python, Facebook Graph API, NLP, Deep Learning (CNN/RNN)
-- ✨ **Features**: Toxicity detection, secure API integration, sentiment analysis
+- 🛠️ **Tech**: Arduino, Python, Cloud Platforms
+- ✨ **Features**: Real-time monitoring, cloud integration, data visualization
 
 👉 _More projects on my [GitHub](https://github.com/Sankethhombale)!_
 
