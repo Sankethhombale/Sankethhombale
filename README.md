@@ -58,8 +58,17 @@ Developed "FeedingIndia," a web platform enabling food, clothing, and monetary d
 
 Developed an IoT-based air quality monitoring system using Arduino and multiple sensors. Implemented real-time data collection and analysis of air pollutants and environmental parameters. Designed and programmed Arduino to interface with sensors and transmit data via Wi-Fi module. Integrated sensor data with cloud platforms for remote monitoring and data visualization.
 
-- 🛠️ **Tech**: Arduino, Python, Cloud Platforms
+- 🛠️ **Tech**: Arduino, C++, Cloud Platforms
 - ✨ **Features**: Real-time monitoring, cloud integration, data visualization
+  
+
+### [Text-to-3D Model Generator](https://github.com/Sankethhombale/TextTo3DModel)
+
+Developed a text-to-3D model generator using OpenAI's Shap-E to create 3D models from text prompts, with Gradio for the web interface and AWS S3 for cloud storage. Implemented seamless model generation and upload, enabling downloadable .glb, .obj, or .ply files. Integrated user-friendly UI for easy interaction and sharing via public S3 URLs.
+
+- 🛠️ **Tech**: Python, AWS
+  OpenAI Shap-E, Gradio, PyTorch, Trimesh
+- ✨ **Features**: Text-to-3D model generation, cloud storage, downloadable models, shareable URLs
 
 👉 _More projects on my [GitHub](https://github.com/Sankethhombale)!_
 
