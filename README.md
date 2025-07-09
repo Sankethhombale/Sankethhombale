@@ -54,7 +54,7 @@ Developed "FeedingIndia," a web platform enabling food, clothing, and monetary d
 - 🛠️ **Tech**: PHP, MySQL, HTML, CSS
 - ✨ **Features**: Donation platform, secure authentication, dynamic content
 
-### [Air Quality Analysis using IoT](https://github.com/Sankethhombale)
+### [Air Quality Analysis using IoT](https://github.com/Sankethhombale?tab=repositories)
 
 Developed an IoT-based air quality monitoring system using Arduino and multiple sensors. Implemented real-time data collection and analysis of air pollutants and environmental parameters. Designed and programmed Arduino to interface with sensors and transmit data via Wi-Fi module. Integrated sensor data with cloud platforms for remote monitoring and data visualization.
 
