@@ -1,13 +1,13 @@
 # H.L. Sanketh
 
-## 😎 Who Am I?
+## Who Am I?
 
 Hey there! I'm **H.L. Sanketh**, a **Computer Science Engineering** student at BNM Institute of Technology, with a passion for crafting innovative solutions through code. I'm currently pursuing my Bachelor's degree with a CGPA of 8.7, and I'm all about diving deep into technology, from IoT and blockchain to cybersecurity and machine learning. When I'm not coding, I'm exploring new technologies and dreaming up ways to make the world a better place through tech. Let's build something amazing together! ✨
 
 - 🎯 **Current Vibe**: Exploring IoT, Machine Learning, RPA, Deep Learning
 - 💼 **Hustle**: Developed multiple projects including an IoT-based air quality monitor, a blockchain voting system, and a social media comment analysis tool
 - 🌱 **Leveling Up**: Gaining expertise in cybersecurity, RPA, and network security
-- 📩 **Hit Me Up**: [sankethombale@gmail.com](mailto:sankethombale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/h-l-sanketh-005393306) | [GitHub](https://github.com/Sankethhombale)
+- 📩 **Contact**: [sankethombale@gmail.com](mailto:sankethombale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/h-l-sanketh-005393306) | [GitHub](https://github.com/Sankethhombale)
 
 > _"Innovate, Integrate, Inspire!"_ 😎
 
