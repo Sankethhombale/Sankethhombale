@@ -1,4 +1,4 @@
-# H.L. Sanketh
+# H L Sanketh
 
 ## Who Am I?
 
